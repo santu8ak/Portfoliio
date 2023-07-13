@@ -3,7 +3,7 @@ import './header.css';
 import 'boxicons';
 import { Typewriter } from 'react-simple-typewriter';
 import person from"../../assets/pic.jpeg";
-import CV from "../../assets/santoshcv.pdf"
+import CV from "../../assets/CV.pdf"
 
 const Header = () => {
   return (
